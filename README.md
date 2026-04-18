@@ -41,18 +41,21 @@ Likely Causes:
 Pricing concerns
 Sales follow-up delays
 Lack of trust/social proof
+
 📊 Channel Performance Insights
+
 🥇 High-Performing Channels
 Organic Search / SEO
 High-quality leads
 Better conversion rates across funnel
 Email Marketing
 Strong mid-to-bottom funnel conversion
-Effective for nurturing
-⚖️ متوسط (Moderate) Performers
+Effective for nurturing Performance (moderate)
+
 Paid Search (PPC)
 Good lead volume
 Mixed conversion quality depending on targeting
+
 ⚠️ Underperforming Channels
 Social Media Ads
 High traffic, low conversion
@@ -96,7 +99,6 @@ Improve demo/offer clarity
 Add testimonials, case studies
 Offer limited-time incentives
 Simplify checkout/onboarding process
-📈 Dashboard Recommendation (Best Tools)
 
 📌 CRM Tools Power BI / Tableau for
 Funnel visualization charts cohort analysis
